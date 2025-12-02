@@ -58,3 +58,7 @@ int main() {
 
 	return 0;
 }
+
+//O(N x D)
+//N digit yg mau difaktorial
+//D brp digit di resultnya
